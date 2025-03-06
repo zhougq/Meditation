@@ -1,0 +1,10 @@
+zoom support:
+
+1. https://developers.zoom.us/docs/api/
+
+2. in request url, remember to switch between "meetings" and "webinars":
+r = requests.post(f'https://api.zoom.us/v2/meetings/{meeting_id}/registrants', verify=False, headers=headers, data=json.dumps(payload))
+
+3. https://developers.zoom.us/docs/api/rest/reference/zoom-api/methods/#operation/meetingRegistrantCreate
+
+4. When there are hiding rows in input excel file, you need reminding of them.

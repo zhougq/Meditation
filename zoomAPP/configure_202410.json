@@ -1,0 +1,13 @@
+{
+  "_comment":"For the account of tm.jol.p@gmail.com",
+  "account_id": "VMTISWB8Qtau7XVb2S720Q",
+  "client_id": "0dVxL2LsTFexU1UIbveRGA" ,
+  "client_secret": "WSWyXZ7zXoEXIecj8fXbHe8clMkupxIx",
+  "meeting_id": "85232738858",
+
+  "working_folder": "../Volunteer/JOL1202410/",
+  "registrants_file": "Register-2024-10-JOL1_2.xlsx",
+
+  "participants_report_file": "participants_85232738858_1013.csv",
+  "check_column": "K"
+}
