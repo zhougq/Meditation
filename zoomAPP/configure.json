@@ -1,0 +1,13 @@
+{
+  "_comment":"For the account of tm.jol.p@gmail.com",
+  "account_id": "VMTISWB8Qtau7XVb2S720Q",
+  "client_id": "0dVxL2LsTFexU1UIbveRGA" ,
+  "client_secret": "WSWyXZ7zXoEXIecj8fXbHe8clMkupxIx",
+  "meeting_id": "88446393587",
+
+  "working_folder": "../volunteer/JOL2_202503/",
+  "registrants_file": "ZoomRegistration2025-03-05.xlsx",
+
+  "participants_report_file": "participants_88446393587_0308.csv",
+  "check_column": "Ticket Type"
+}
